@@ -1,0 +1,21 @@
+body {
+    background: #969ca8;
+}
+h1 {
+    color: darkred;
+}
+h2 {
+    color:  darkblue;
+}
+h3 {
+    color: rgb(75, 46, 0);
+}
+h4 {
+    color: crimson;
+}
+h5 {
+    color: darkorchid;
+}
+h6 {
+    color: forestgreen;
+}
